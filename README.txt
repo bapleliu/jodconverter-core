@@ -21,3 +21,4 @@ modify it under either (at your option) of the following licenses
    
    
 [![](https://jitpack.io/v/acurci/jodconverter-core.svg)](https://jitpack.io/#acurci/jodconverter-core)
+
