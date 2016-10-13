@@ -20,5 +20,5 @@ modify it under either (at your option) of the following licenses
    -> see LICENSE-Apache.txt
    
    
-[![](https://jitpack.io/v/acurci/jodconverter-core.svg)](https://jitpack.io/#acurci/jodconverter-core)
+[![]( https://jitpack.io/v/acurci/jodconverter-core.svg )](https://jitpack.io/#acurci/jodconverter-core)
 
